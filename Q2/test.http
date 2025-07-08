@@ -1,7 +1,0 @@
-### Test POST request to /save
-POST http://localhost:9090/save
-Content-Type: application/json
-
-{
-  "content": "Hello, this is a mock POST test"
-}
